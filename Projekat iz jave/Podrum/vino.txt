@@ -1,0 +1,24 @@
+crveno
+suvo
+medvedja krv
+340.0
+1.0
+12.5
+500
+3
+belo
+penusavo
+sampanjac
+2385.0
+0.75
+10.0
+150
+4
+slatko
+sladje
+sangrija
+299.0
+1.0
+11.5
+1000
+2
